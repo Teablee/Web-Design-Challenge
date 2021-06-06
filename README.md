@@ -1,3 +1,9 @@
+See the website deployed here:
+https://teablee.github.io/Web-Design-Challenge.github.io/index.html
+
+I had issues with the navbar and getting the hamburger icon to work in a small window.
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
